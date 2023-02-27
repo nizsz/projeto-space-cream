@@ -1,15 +1,15 @@
 <h1 align="center"> Space Cream Desktop </h1>
 
 <p align="center">
-Evento exclusivo promovido pela Rocketseat para ensino de tecnologias WEB.
+Exclusive event promoted by Rocketseat for teaching WEB technologies.
 </p>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-aprendizado">Aprendizado</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#-learning">Learning</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>
 </p>
 
 <p align="center">
@@ -19,34 +19,34 @@ Evento exclusivo promovido pela Rocketseat para ensino de tecnologias WEB.
 <br>
 
 <p align="center">
-  <img alt="Projeto Space Cream" src="github/preview.png" width="100%">
+  <img alt="Project Space Cream" src="github/preview.png" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
-- HTML e CSS
-- Git e GitHub
+- HTML and CSS
+- Git and GitHub
 
-## 💻 Projeto
+## 💻 Project
 
-Space Cream é um aplicativo de sorvetes podendo escolher o tipo de sorvete.
+Space Cream is an ice cream app that lets you choose the type of ice cream.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/nZJ4eVR21caidzuWYM78wu/Stage-03---Grid-com-anima%C3%A7%C3%B5es-(Copy)?). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.  
+You can view the project through layout [THIS LINK](https://www.figma.com/file/nZJ4eVR21caidzuWYM78wu/Stage-03---Grid-com-anima%C3%A7%C3%B5es-(Copy)?). Is necessary an acount [Figma](https://figma.com)for access it.  
 
-## 🧠 Aprendizado
+## 🧠 Learning
 
-Nesse projeto eu aprendi;
+In this project i learned;
 
 - HTML.
-- CSS e suas propriedades.
+- CSS and your properties.
 - Grid Area.
 
-## :memo: Licença
+## :memo: License
 
-Esse projeto está sob a licença MIT.
+This project is lincensed under MIT.
 
 ---
